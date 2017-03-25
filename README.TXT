@@ -1,13 +1,21 @@
-DOUBLE CLICK ON THE ONLINESALESPORTAL.JAR TO RUN THE PROGRAM.
+On-line Sales Portal- (Semester Project)
+
+This software system was designed, using Software Engineering Principles, to provide a one-stop
+online store for the users to buy and sell at the same platform. The system was built and
+developed in Java platform, using the Java Swing interface, and MySql database management
+system (DBMS). The consumers were facilitated to search, buy, sell, ‘add to Wishlist‘ (in case of
+unavailability) the items of their interests. The system also supports consumer accounts and on-
+line payments for the transactions (i.e. the interface supported all the functionalities). They were
+also facilitated to give feedbacks and names of new items of their own desire, which helped the
+manager to conduct and manage the portal in the advantage of the consumers. Message passing
+among the buyers, senders and the manager, with Email facility was also incorporated, and all
+the data, messages, transaction histories were stored safely using the MySql DBMS.
+
+************************************************************************
+
+DOUBLE CLICK ON THE "OnlineSalesPortal.jar" TO RUN THE PROGRAM.
 
 THE SOURCE FILES ARE STORED IN SOURCES FOLDER.
-
-
-
-
-
-
-
 
 ========================
 BUILD OUTPUT DESCRIPTION
